@@ -1,4 +1,6 @@
-
+div {
+    text-align: center;
+}
 body {
     background-color: tomato;
 }
@@ -6,13 +8,15 @@ h1 {
     color:blueviolet;
 }
 h2 {
-    color: rgb(9, 95, 84);
+    color: rgb(218, 22, 202);
 }
 ul {
-    color:rgb(46, 25, 183);
+    list-style: none;
+    color:rgb(23, 63, 224);
+    font-size: 20px;
 }
 p {
-    color: rgb(109, 20, 226);
+    color: rgb(49, 14, 174);
 }
 img {
     width: 30%;
