@@ -1,17 +1,18 @@
+
 body {
-    background-color: lavenderblush;
+    background-color: tomato;
 }
 h1 {
     color:blueviolet;
 }
 h2 {
-    color: hotpink;
+    color: rgb(9, 95, 84);
 }
 ul {
-    color:deeppink;
+    color:rgb(46, 25, 183);
 }
 p {
-    color: plum;
+    color: rgb(109, 20, 226);
 }
 img {
     width: 30%;
